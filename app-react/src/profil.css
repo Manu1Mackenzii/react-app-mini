@@ -1,0 +1,58 @@
+/* CSS Reset to remove default margins and paddings */
+body, h1, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header styles */
+  h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  /* Paragraph styles */
+  p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Heading styles */
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* List styles */
+  ul {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Link styles */
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
+  
